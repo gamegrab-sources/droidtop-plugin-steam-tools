@@ -3,7 +3,7 @@
   "origin": "gamegrab",
   "label": "Steam tools",
   "description": "Claims free Steam games, redeems keys and can show games as played, on the Steam account droidtop is signed in to. Unofficial, after ArchiSteamFarm's ideas.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "kind": "python",
   "contractVersion": 3,
   "category": "integrations",
