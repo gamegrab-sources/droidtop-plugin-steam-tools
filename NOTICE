@@ -1,0 +1,10 @@
+Copyright (C) 2026 the droidtop-plugin-steam-tools contributors
+Licensed under the GNU General Public License version 3 (see LICENSE).
+
+It embeds gamegrab (https://github.com/gamegrab-sources/plugin-common-py), GPL-3.0.
+
+Its free-game watching follows the idea of ArchiSteamFarm's FreePackages plugin
+(Citrinate/FreePackages); no code of ArchiSteamFarm or its plugins is in it.
+
+This is an unofficial plugin. It is not part of droidtop and is not affiliated
+with or endorsed by Valve, Steam, ArchiSteamFarm or droidtop.
