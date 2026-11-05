@@ -67,7 +67,7 @@ jobs:
 
       - name: Sign
         id: sign
-        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        if: github.event_name == 'push' && (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/plugin-core')
         env:
           KEY_PEM: ${{ secrets.PLUGIN_SIGNING_KEY }}
           CERT_JSON: ${{ secrets.PLUGIN_SIGNING_CERT }}
